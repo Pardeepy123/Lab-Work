@@ -2,13 +2,12 @@
 ### Objective :- 
 The main objective of LibreCAD is to provide users with a free and open-source platform for creating accurate 2D CAD drawings. It aims to offer professional-grade functionality for tasks such as architectural drafting, mechanical design, electrical schematics, and more, without the need for expensive proprietary software. LibreCAD strives to be user-friendly, customizable, and compatible with industry-standard file formats, making it accessible to a wide range of users for various design and drafting projects.
 ### Introduction:-
-LibreCAD is a free and open-source 2D CAD (Computer-Aided Design) software. It's designed for creating technical drawings, floor plans, schematics, and diagrams. It offers features like layers, blocks, and customizable tool palettes. It's a great tool for architects, engineers, and hobbyists who need to create precise drawings. It has a great significance as it create a strong base for the advanced software like [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD),[Sketchup](https://en.wikipedia.org/wiki/SketchUp),[Freecad](https://en.wikipedia.org/wiki/FreeCAD),[Microstation](https://en.wikipedia.org/wiki/Microstation)
+LibreCAD is a free and open-source 2D CAD (Computer-Aided Design) software. It's designed for creating technical drawings, floor plans, schematics, and diagrams. It offers features like layers, blocks, and customizable tool palettes. It's a great tool for architects, engineers, and hobbyists who need to create precise drawings. It has a great significance as it create a strong base for the advanced software like AutoCAD.
+[librecad](https://wiki.librecad.org/index.php/LibreCAD_Brief_Overview#Introduction)
 ### Material and equipments used:-
-1.[Manual](https://docs.librecad.org/en/latest/)
+[Mannual](https://wiki.librecad.org/index.php/LibreCAD_users_Manual)
+[You tube](https://youtube.com/playlist?list=PLh1Mh_dB_MNHxafvJwpw86QvHT0KWsb5s&si=CwzxzdScwxathBcY)
 
-2.[Web site](https://wiki.librecad.org/index.php/User_Interface)
-
-3.[You tube](https://www.youtube.com/watch?v=COglpXQdnys)
 ### Procedure:-
 Here's a step-by-step procedure for using LibreCAD:
 
