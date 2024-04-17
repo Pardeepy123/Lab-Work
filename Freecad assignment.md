@@ -31,20 +31,29 @@ Applications and Use Cases: Explore the suitability of each CAD software for dif
 Future Trends and Developments: Discuss emerging trends and developments in the field of free CAD software, including new features, improvements, and innovations being introduced by developers and the community.
 
 ###WORK CARRIED OUT:-
+
 Research on free CAD software typically involves a variety of activities aimed at evaluating, improving, or utilizing these tools. Here are some common types of work carried out in the context of free CAD software:
 
-Evaluation and Comparison: Researchers often evaluate and compare different free CAD software packages to assess their features, performance, usability, and suitability for various applications. This may involve conducting usability studies, benchmark tests, or comparative analyses.
+Evaluation and Comparison:-
 
-Documentation and Support: Research work may focus on creating documentation, tutorials, user guides, or other support materials to help users learn how to use free CAD software effectively. This can contribute to improving the usability and accessibility of these tools for a wider audience.
+Researchers often evaluate and compare different free CAD software packages to assess their features, performance, usability, and suitability for various applications. This may involve conducting usability studies, benchmark tests, or comparative analyses.
+
+Documentation and Support:-  
+
+Research work may focus on creating documentation, tutorials, user guides, or other support materials to help users learn how to use free CAD software effectively. This can contribute to improving the usability and accessibility of these tools for a wider audience.
 
 Case Studies and Applications: Researchers may explore real-world case studies or applications of free CAD software in various industries or domains, such as mechanical engineering, architecture, product design, education, or hobbyist projects. This can provide insights into the practical use and effectiveness of these tools in different contexts.
 
 Training and Education: Work may involve developing training courses, workshops, or educational resources to teach users how to use free CAD software for specific purposes or industries. This can help empower individuals with the skills and knowledge needed to leverage these tools effectively in their work or studies.
 
 Community Building and Engagement: Researchers may engage with the community of users and developers around free CAD software by participating in forums, user groups, or events, sharing knowledge and expertise, and fostering collaboration and innovation within the community.
+
 [Mannual](https://wiki.freecad.org/Manual:Introduction)
 
+[YouTube](https://youtu.be/sxnij3CkkdU?si=nsQPPWNLvSIiHreg)
+
 ###PROCEDURE:-
+
 Sure, here's a basic overview of how to use FreeCAD:
 
 Install FreeCAD: Start by downloading and installing FreeCAD from their official website.
@@ -68,6 +77,7 @@ Export: Once you're satisfied with your design, you can export it in various fil
 Save Your Work: Don't forget to save your work regularly to avoid losing progress.
 
 ###RESULT:-
+
 The results of using free CAD software can vary depending on factors such as the specific software chosen, the user's expertise and goals, and the complexity of the project. Here are some potential outcomes:
 
 Cost Savings: One of the primary benefits of using free CAD software is cost savings, as users do not need to pay for expensive licenses or subscriptions. This makes it accessible to hobbyists, students, and small businesses with limited budgets.
@@ -98,9 +108,11 @@ Compatibility: FreeCAD supports various file formats for importing and exporting
 Overall, while FreeCAD may not have all the advanced features or polished user interface of commercial CAD software, it offers a powerful, free, and open-source alternative with a supportive community and a comprehensive set of features suitable for many design tasks. Users should consider their specific requirements and preferences when choosing a CAD software solution.
 
 ###CONCLUSION:-
+
 In conclusion, FreeCAD is a powerful and versatile open-source CAD software option that offers significant benefits, particularly for users with limited budgets or those who prioritize accessibility and community support. Its key strengths include its cost-effectiveness, wide range of features such as parametric modeling and modular architecture, and active community of users and developers. However, users should be aware of potential limitations such as usability challenges and performance issues, especially when compared to some commercial CAD software options.Ultimately, FreeCAD provides a valuable and capable solution for many design tasks, and its suitability depends on individual user needs and preferences.
 
 ###FUTURE SCOPE REFERENCE:-
+
 As of my last update in January 2022, I don't have access to specific references regarding the future scope of FreeCAD. However, I can provide you with some insights based on trends and discussions within the CAD community:
 
 FreeCAD Development Roadmap: Checking the official FreeCAD website or forums for any published development roadmap can give you an idea of the future features and enhancements planned for the software.
