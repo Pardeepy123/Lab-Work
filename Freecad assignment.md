@@ -43,6 +43,7 @@ Training and Education: Work may involve developing training courses, workshops,
 
 Community Building and Engagement: Researchers may engage with the community of users and developers around free CAD software by participating in forums, user groups, or events, sharing knowledge and expertise, and fostering collaboration and innovation within the community.
 [Mannual](https://wiki.freecad.org/Manual:Introduction)
+
 ###PROCEDURE:-
 Sure, here's a basic overview of how to use FreeCAD:
 
