@@ -37,11 +37,15 @@ Export: Export your drawing to common file formats like DXF or DWG for compatibi
 Printing: Print your drawing by selecting "File" > "Print" and adjusting the print settings like scale and paper size.
  ### Result:-
  The results achieved with LibreCAD software depend on the user's skills, creativity, and the complexity of the projects undertaken. Some common outcomes include:
+ 
  Precise technical drawings: Users can create detailed and accurate 2D drawings for architectural plans, mechanical designs, circuit diagrams, and more.
+ 
 Efficient workflow: LibreCAD streamlines the design process with features like layers, snap tools, and measurement capabilities, leading to faster and more efficient project completion.
+
 Customizable designs: Users can customize their drawings with various tools and options to meet specific project requirements and design aesthetics.
 
 Collaboration: LibreCAD facilitates collaboration by allowing users to share their drawings in commonly used file formats, enabling seamless communication and feedback exchange among team members
+
 Cost-effectiveness: As a free and open-source software, LibreCAD eliminates the need for expensive licensing fees, making it an affordable option for individuals and organizations.
 
 Photo
