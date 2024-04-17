@@ -13,7 +13,7 @@ Versatility: It supports a wide range of file formats for both importing and exp
 
 Community and Support: FreeCAD has an active community of users and developers who contribute to its development, provide support, and share resources like tutorials and documentation.
 
-Overall, FreeCAD is a great option for hobbyists, students, and professionals looking for a free and open-source CAD software for their 3D modeling needs.
+Overall, FreeCAD is a great option for hobbyists, students, and professionals looking for a free and open-source CAD software for their 3D modeling needs.[freecad](https://www.picuino.com/en/freecad-intro.html)
 
 ###LITRETURE REVIEW:-
 A literature review on free CAD software would typically explore various aspects of different tools, including their features, capabilities, usability, performance, community support, and applications. Here's a concise overview:
@@ -42,6 +42,29 @@ Case Studies and Applications: Researchers may explore real-world case studies o
 Training and Education: Work may involve developing training courses, workshops, or educational resources to teach users how to use free CAD software for specific purposes or industries. This can help empower individuals with the skills and knowledge needed to leverage these tools effectively in their work or studies.
 
 Community Building and Engagement: Researchers may engage with the community of users and developers around free CAD software by participating in forums, user groups, or events, sharing knowledge and expertise, and fostering collaboration and innovation within the community.
+[Mannual](https://wiki.freecad.org/Manual:Introduction)
+###PROCEDURE:-
+Sure, here's a basic overview of how to use FreeCAD:
+
+Install FreeCAD: Start by downloading and installing FreeCAD from their official website.
+
+Open FreeCAD: Launch the application.
+
+Create a New Document: Start by creating a new document where you'll design your object.
+
+Workbench Selection: FreeCAD offers different workbenches for different tasks like Part Design, Draft, Sketcher, etc. Choose the appropriate workbench for your project.
+
+Sketching: If you're using the Part Design workbench, start by sketching the 2D outline of your object on one of the available planes (XY, XZ, or YZ).
+
+Extrusion/Revolution: Once you've sketched your object, you can extrude or revolve the sketch to give it volume.
+
+Additional Features: You can add more features like fillets, chamfers, holes, etc., to your model to refine it further.
+
+Assembly: If your project involves multiple parts, you can assemble them together using the Assembly workbench.
+
+Export: Once you're satisfied with your design, you can export it in various file formats like STL, STEP, or IGES for further use or 3D printing.
+
+Save Your Work: Don't forget to save your work regularly to avoid losing progress.
 
 ###RESULT:-
 The results of using free CAD software can vary depending on factors such as the specific software chosen, the user's expertise and goals, and the complexity of the project. Here are some potential outcomes:
