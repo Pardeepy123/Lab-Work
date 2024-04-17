@@ -1,6 +1,6 @@
-#Introduction to Free cad software
+# Introduction to Free cad software
 
-###INTRODUCTION :-
+### INTRODUCTION :-
 FreeCAD is a powerful, open-source parametric 3D CAD modeler. It's designed for creating 3D models of real-life objects. Here's a brief introduction:
 
 Parametric Modeling: FreeCAD allows you to create models that are driven by parameters, making it easy to modify designs later on.
@@ -15,7 +15,7 @@ Community and Support: FreeCAD has an active community of users and developers w
 
 Overall, FreeCAD is a great option for hobbyists, students, and professionals looking for a free and open-source CAD software for their 3D modeling needs.[freecad](https://www.picuino.com/en/freecad-intro.html)
 
-###LITRETURE REVIEW:-
+### LITRETURE REVIEW:-
 A literature review on free CAD software would typically explore various aspects of different tools, including their features, capabilities, usability, performance, community support, and applications. Here's a concise overview:
 
 Features and Capabilities: Compare the features offered by different free CAD software, such as parametric modeling, assembly design, drafting, rendering, and simulation capabilities.
@@ -30,7 +30,7 @@ Applications and Use Cases: Explore the suitability of each CAD software for dif
 
 Future Trends and Developments: Discuss emerging trends and developments in the field of free CAD software, including new features, improvements, and innovations being introduced by developers and the community.
 
-###WORK CARRIED OUT:-
+### WORK CARRIED OUT:-
 
 Research on free CAD software typically involves a variety of activities aimed at evaluating, improving, or utilizing these tools. Here are some common types of work carried out in the context of free CAD software:
 
@@ -52,7 +52,7 @@ Community Building and Engagement: Researchers may engage with the community of 
 
 [YouTube](https://youtu.be/sxnij3CkkdU?si=nsQPPWNLvSIiHreg)
 
-###PROCEDURE:-
+### PROCEDURE:-
 
 Sure, here's a basic overview of how to use FreeCAD:
 
@@ -76,7 +76,7 @@ Export: Once you're satisfied with your design, you can export it in various fil
 
 Save Your Work: Don't forget to save your work regularly to avoid losing progress.
 
-###RESULT:-
+### RESULT:-
 
 The results of using free CAD software can vary depending on factors such as the specific software chosen, the user's expertise and goals, and the complexity of the project. Here are some potential outcomes:
 
@@ -90,7 +90,7 @@ Community Support: Many free CAD software packages benefit from active and suppo
 
 Limitations: However, free CAD software may have limitations compared to commercial alternatives, such as fewer advanced features, less comprehensive documentation and support, and potential compatibility issues with proprietary file formats or industry standards. Users may encounter challenges when working on complex or specialized projects that require specific functionalities not available in free software.
 
-###COMPRESSION:-
+### COMPRESSION:-
 When comparing FreeCAD to other CAD software, several aspects come into play. Here's a comparison highlighting FreeCAD's key features and differences:
 
 Cost: FreeCAD is open-source and free to use, making it accessible to users with limited budgets. This is a significant advantage compared to many commercial CAD software options, which require purchasing licenses that can be expensive.
@@ -107,11 +107,11 @@ Compatibility: FreeCAD supports various file formats for importing and exporting
 
 Overall, while FreeCAD may not have all the advanced features or polished user interface of commercial CAD software, it offers a powerful, free, and open-source alternative with a supportive community and a comprehensive set of features suitable for many design tasks. Users should consider their specific requirements and preferences when choosing a CAD software solution.
 
-###CONCLUSION:-
+### CONCLUSION:-
 
 In conclusion, FreeCAD is a powerful and versatile open-source CAD software option that offers significant benefits, particularly for users with limited budgets or those who prioritize accessibility and community support. Its key strengths include its cost-effectiveness, wide range of features such as parametric modeling and modular architecture, and active community of users and developers. However, users should be aware of potential limitations such as usability challenges and performance issues, especially when compared to some commercial CAD software options.Ultimately, FreeCAD provides a valuable and capable solution for many design tasks, and its suitability depends on individual user needs and preferences.
 
-###FUTURE SCOPE REFERENCE:-
+### FUTURE SCOPE REFERENCE:-
 
 As of my last update in January 2022, I don't have access to specific references regarding the future scope of FreeCAD. However, I can provide you with some insights based on trends and discussions within the CAD community:
 
