@@ -10,12 +10,31 @@ LibreCAD is a free and open-source 2D CAD (Computer-Aided Design) software. It's
 
 3.[You tube](https://www.youtube.com/watch?v=COglpXQdnys)
 ### Procedure:-
- 1. Download LibraCAD from github or any other source.
- 2. Open LibraCAD
- 3. Go to help section on the top pannel bar.
- 4. Read whole artical and try to apply in your LibraCAD drawings.
- 5. First draw anything either a line,circle or rectangle than use the tools like move,copy,rotate,chamfer,fillet,trim,layer etc.
- 6. The more you use and play with the tools in LibraCAD ,the more you would learn.
+Here's a step-by-step procedure for using LibreCAD:
+
+Installation: Download and install LibreCAD from the official website or your operating system's package manager.
+
+Launch LibreCAD: Open the software after installation.
+
+Create New Drawing: Start a new drawing by selecting "File" > "New" or using the shortcut Ctrl + N.
+
+Set Drawing Parameters: Define the drawing parameters such as units, grid settings, and dimensions under "Edit" > "Current Drawing Preferences".
+
+Draw Shapes: Use the various drawing tools such as line, polyline, circle, arc, and rectangle to create your design.
+
+Modify Shapes: Modify shapes by selecting them and using the editing tools like move, rotate, scale, trim, extend, and mirror.
+
+Add Text: Insert text into your drawing using the text tool. Specify the font, size, and alignment as needed.
+
+Layers: Organize your drawing by using layers. Create new layers, assign objects to layers, and adjust layer properties like color and visibility.
+
+Dimensioning: Add dimensions to your drawing using the dimensioning tools. Specify the dimension style, measurement units, and precision.
+
+Save Your Work: Save your drawing frequently by selecting "File" > "Save" or "Save As" to choose a specific location and format.
+
+Export: Export your drawing to common file formats like DXF or DWG for compatibility with other CAD software or printing.
+
+Printing: Print your drawing by selecting "File" > "Print" and adjusting the print settings like scale and paper size.
  ### Result:-
  The results achieved with LibreCAD software depend on the user's skills, creativity, and the complexity of the projects undertaken. Some common outcomes include:
  Precise technical drawings: Users can create detailed and accurate 2D drawings for architectural plans, mechanical designs, circuit diagrams, and more.
