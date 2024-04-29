@@ -1,0 +1,12 @@
+# Assignment-3
+### Software Used - Libre-CAD
+### Procedure - 
+Open LibreCAD: Launch the LibreCAD software on your computer.
+Set up Drawing: Start a new drawing by selecting "File" > "New" or by clicking on the new drawing icon.
+Set up Units and Grid: Before starting your design, set up the units and grid settings according to your requirements. You can access these settings through the "Options" menu.
+Draw the Column: Begin by drawing the base of the column. You can use tools like the Line tool, Rectangle tool, or Circle tool to create the base shape of the column.
+Add Details: Add any additional details to the column, such as flutes, capitals, or decorations. These can be drawn using lines, arcs, or other geometric shapes.
+Dimensioning: Dimension your drawing to provide measurements and scale. Use the Dimension tool to add dimensions to various parts of the column, such as the diameter or width of the shaft, height of the column, etc.
+Annotations: Add any necessary annotations or notes to your drawing using the Text tool. This might include information about materials, specifications, or any other relevant details.
+Save Your Drawing: Once you are satisfied with your drawing, save it by selecting "File" > "Save As" and choosing a location and file format (e.g., DXF or DWG) for your drawing.
+Export and Print: If you need to export your drawing to share it with others or print it, you can do so by selecting "File" > "Export" and choosing the desired file format (e.g., PDF, SVG).
