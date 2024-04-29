@@ -1,0 +1,22 @@
+# Assignment-4
+### Software Used - Libre-CAD
+### Procedure –
+Open LibreCAD: Launch the LibreCAD software on your computer.
+Set Up Drawing: Start a new drawing by selecting "File" > "New" or by clicking on the new drawing icon.
+Draw the Walls:
+Use the Line tool to draw the outer walls of your home. Click at each corner point to draw the walls.
+Use the Offset tool if you need to create interior walls parallel to the outer walls.
+Add Doors and Windows:
+Use the Line tool to draw the outlines of doors and windows.
+You can use the Offset tool to create the door or window frame thickness.
+Erase the lines within the door or window frame to create openings.
+Dimensioning:
+Add dimensions to your drawing using the Dimension tool. This helps in specifying the sizes of rooms, doors, windows, etc.
+Text and Annotations:
+Add text labels and annotations using the Text tool. Label rooms, doors, windows, and other important features.
+Layers:
+Organize your drawing using layers. For example, you can have separate layers for walls, doors, windows, text, etc. This makes it easier to manage and edit your drawing.
+Save Your Work:
+Save your drawing frequently to avoid losing your work.
+Printing and Exporting:
+Once your design is complete, you can print it directly from LibreCAD or export it to a different format (e.g., PDF, DXF) for sharing or further editing.
