@@ -1,12 +1,37 @@
-# Assignment-2
-### Software Used - Libre-CAD
+# Assignment -2
+### Software Used – Free-CAD
 ### Procedure - 
-Open LibreCAD: Launch the LibreCAD software on your computer.
-Set up Drawing: Start a new drawing by selecting "File" > "New" or by clicking on the new drawing icon.
-Set up Units and Grid: Before starting your design, set up the units and grid settings according to your requirements. You can access these settings through the "Options" menu.
-Draw the Column: Begin by drawing the base of the column. You can use tools like the Line tool, Rectangle tool, or Circle tool to create the base shape of the column.
-Add Details: Add any additional details to the column, such as flutes, capitals, or decorations. These can be drawn using lines, arcs, or other geometric shapes.
-Dimensioning: Dimension your drawing to provide measurements and scale. Use the Dimension tool to add dimensions to various parts of the column, such as the diameter or width of the shaft, height of the column, etc.
-Annotations: Add any necessary annotations or notes to your drawing using the Text tool. This might include information about materials, specifications, or any other relevant details.
-Save Your Drawing: Once you are satisfied with your drawing, save it by selecting "File" > "Save As" and choosing a location and file format (e.g., DXF or DWG) for your drawing.
-Export and Print: If you need to export your drawing to share it with others or print it, you can do so by selecting "File" > "Export" and choosing the desired file format (e.g., PDF, SVG).
+Open FreeCAD: Launch the LibreCAD software on your computer.
+Download the BIM Workbench:
+Visit the FreeCAD BIM Workbench repository on GitHub.
+Download the Latest Release:
+Download the latest release of the BIM Workbench in a format compatible with your operating system (Windows, macOS, Linux).
+Install BIM Workbench:
+Follow the installation instructions provided in the README file or on the GitHub page.
+For most operating systems, it typically involves extracting the downloaded files and copying them to the appropriate directory where FreeCAD is installed.
+Restart the FreeCAD:
+Close any open instances of FreeCAD.
+Restart FreeCAD to ensure that the BIM Workbench is installed and available.
+Enable BIM Workbench:
+After restarting FreeCAD, open the application.
+Switch to the BIM Workbench by selecting it from the workbench dropdown menu.
+Start BIM Workbench:
+After restarting FreeCAD, open the application.
+Switch to the BIM Workbench by selecting it from the workbench dropdown menu.
+Start Using BIM Workbench:
+Switch to the BIM Workbench from the workbench selector drop-down menu. 
+Create a Building:
+Select the rectangular box and click on wall icon.
+Give the dimensions to the wall.
+Add Structures:
+Add structure elements like walls, slabs, and roofs using the BIM tools.
+Add Windows and Doors: 
+Insert window and door objects into the openings created earlier.
+Export to IFC: 
+Export the BIM model to the IFC format for interoperability with other BIM software.
+Add Text and Annotations: 
+Use the Text tool to add labels, annotations, and other textual information to your drawing. This could include labels for rooms, notes, or other relevant details.
+Save Your Drawing: 
+Once you are satisfied with your basement slab plan, save your drawing file to your computer.
+Export or Print: 
+Depending on your requirements, you can export your drawing to various file formats or print it directly from LibreCAD for documentation or sharing purposes.
