@@ -1,0 +1,39 @@
+# Assignment -5
+### Software Used – Free-CAD
+### Procedure – 
+Download Reinforcement Workbench”
+Go to the FreeCAD Addon Manager by clicking on Tools > Addon manager.
+Search for "Reinforcement" in the search bar.
+Select the Reinforcement Workbench from the list and click the Install button.
+Restart FreeCAD:
+After installation, restart FreeCAD for the changes to take effect.
+Creating a Reinforced Slab:
+Open FreeCAD:
+Launch FreeCAD from your desktop or applications menu.
+Create a New Document:
+Click on File > New to create a new document.
+Switch to Part Design Workbench:
+Click on the Part Design workbench from the workbench selector toolbar.
+Create a Base Sketch:
+Click on the Create a new sketch button.
+Select the XY plane or any other appropriate plane.
+Draw the outline of the slab using the Sketch tools like Line, Rectangle, or Polyline.
+Exit Sketch:
+Once the sketch is complete, click on the Close the active sketch button.
+Pad the Sketch:
+Select the sketch you just created.
+Click on the Pad a selected sketch button.
+Enter the desired thickness for the slab and click OK.
+Switch to Reinforcement Workbench:
+Click on the Reinforcement workbench from the workbench selector toolbar.
+Define Reinforcement Parameters:
+Click on the Create/Modify reinforce button.
+Select the face of the slab where you want to add reinforcement.
+Set parameters such as reinforcement type, spacing, cover, etc.
+Generate Reinforcement:
+After setting the parameters, click on the Generate button to create reinforcement on the selected face.
+Review and Modify:
+Review the reinforcement layout and modify parameters as needed.
+You can adjust the placement, orientation, and other properties of the reinforcement bars.
+Export or Save the Model:
+Once you are satisfied with the reinforcement, you can export the model or save it in FreeCAD format for further use or analysis.
